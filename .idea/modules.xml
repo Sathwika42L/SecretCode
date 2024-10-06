@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Operators/.idea/Operators.iml" filepath="$PROJECT_DIR$/../Operators/.idea/Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Secret Code.iml" filepath="$PROJECT_DIR$/.idea/Secret Code.iml" />
     </modules>
   </component>
